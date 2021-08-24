@@ -16,4 +16,4 @@ RU: Модификация для удаления пикселизации в �
 
 ---
 
-Steam: https://store.steampowered.com/app/1099840/1000/
+Steam: https://store.steampowered.com/app/1099840
